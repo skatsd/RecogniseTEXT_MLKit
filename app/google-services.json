@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724092032230",
+    "firebase_url": "https://text-detection-a523f.firebaseio.com",
+    "project_id": "text-detection-a523f",
+    "storage_bucket": "text-detection-a523f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724092032230:android:2bf350f066b8974e221727",
+        "android_client_info": {
+          "package_name": "com.saikat.skat_sd.recognisetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724092032230-bo0ko1lmqfegpqobpreqgeelejo2rgjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDC4nBLt463JcCG2yAZ4rS6LbuhltWtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724092032230-bo0ko1lmqfegpqobpreqgeelejo2rgjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
